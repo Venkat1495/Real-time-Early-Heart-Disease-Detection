@@ -1,8 +1,6 @@
 # Real-time Early Heart Disease Detection using Apache Spark
 
- FALL 2022 CPSC 531-02, PROFESSOR TSENG-CHING SHEN
-
- Venkat Jawahar Reddy (CWID: 885187195), Andres Medina (CWID:891867624), Brijesh Prajapati (CWID: 885909267)
+ Venkat Jawahar Reddy Yerrabathini (Email : yvjy95@gmail.com)
 
 ## Files Locations
 

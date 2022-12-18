@@ -12,4 +12,4 @@
 
 ## Documentation 
  
- Please go through the "CPSC531_Final_Project_Document.pdf" to understand the project.
+ Please go through the "Real-time Early Heart Disease Detection using Apache Spark.pdf" to understand the project.
